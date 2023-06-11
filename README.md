@@ -1,2 +1,2 @@
 # yp_projects
-Projects from Yandex Practicum
+Здест будут проекты, которые были сделаны на Яндекс Практикуме
